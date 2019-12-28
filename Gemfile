@@ -6,7 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 
-
+ruby '2.5.5'
 gem 'rails', '~> 5.1.7'
 gem 'bootstrap', '~> 4.1'
 gem 'jquery-rails'
