@@ -8,7 +8,7 @@ end
 
 
 gem 'rails', '~> 5.1.7'
-gem 'bootstrap', '~> 4.1'
+gem 'bootstrap', '~> 4.3'
 gem 'jquery-rails'
 gem 'puma', '~> 3.7'
 gem 'sass-rails', '~> 5.0'
