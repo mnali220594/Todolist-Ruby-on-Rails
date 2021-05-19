@@ -10,7 +10,7 @@ ruby '2.5.5'
 gem 'rails', '~> 5.1.7'
 gem 'bootstrap', '~> 4.1'
 gem 'jquery-rails'
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 4.3'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 
